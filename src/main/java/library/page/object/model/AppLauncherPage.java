@@ -3,7 +3,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import library.utility.Utility;
-import test.Campaign_S3_TestNGPOMTransition.S2051CreateCampaign;
+import test.Campaign_S3_POMCucumberTransition.S2051CreateCampaign;
 
 
 public class AppLauncherPage extends Utility {
